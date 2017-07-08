@@ -1,4 +1,4 @@
-# xscreensaver
+# XScreensaver for Raspberry Pi and updates to a screensaver tutorial
 A screensaver for Raspberry Pi that shows temperature with updates to a tutorial from *liberato*.
 The tutorial from *liberato* also seems to work in WSL/BashOnWindows, if you install an X-server.
 
@@ -15,10 +15,10 @@ Install:
 $ sudo apt-get install xscreensaver
 
 Run in the folder whose screensavers you want to use:  
-$ ./rebuild.sh
+$ ./rebuild.sh  
 $ ./install.sh
 
 Run:  
-$ xscreensaver-demo
+$ xscreensaver-demo  
 or run it from start menu: Preferences/Screensaver  
 Look up your screensavers and preview. It doesn't work to just run the screensaver program because it then uses an invisible screen.
