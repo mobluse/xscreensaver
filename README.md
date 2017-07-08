@@ -1,6 +1,6 @@
 # XScreensaver for Raspberry Pi & updates to a screensaver tutorial
 A [screensaver](https://en.wikipedia.org/wiki/Screensaver) for Raspberry Pi that shows temperature with updates to a tutorial
-from *liberato*. The tutorial from *liberato* also seems to work in [WSL/BashOnWindows](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux), if you install an X-server.
+from *liberato*. The tutorial from *liberato* also seems to work in [WSL/BashOnWindows](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux), if you install an [X-server](https://sourceforge.net/projects/vcxsrv/).
 
 How to measure temperature with a Raspberry Pi from the C programming language:  
 https://www.raspberrypi.org/forums/viewtopic.php?f=33&t=170112
