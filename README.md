@@ -22,3 +22,6 @@ Run:
 **$ xscreensaver-demo**  
 or run it from start menu: Preferences/Screensaver  
 Look up your screensavers and preview. It doesn't work to just run the screensaver program because it then uses an invisible screen.
+
+## Screensaver Temperature
+It shows the CPU-temperature and it is red when increasing, green when unchanged, and blue when sinking, compared to the last second.
