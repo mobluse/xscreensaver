@@ -12,13 +12,13 @@ Problems with the tutorial, but I have figured out how to compile and run, see s
 https://stackoverflow.com/questions/11686699/hints-and-tips-for-writing-a-screensaver-using-xscreensaver
 
 Install:  
-$ sudo apt-get install xscreensaver
+**$ sudo apt-get install xscreensaver**
 
 Run in the folder whose screensavers you want to use:  
-$ ./rebuild.sh  
-$ ./install.sh
+**$ ./rebuild.sh**  
+**$ ./install.sh**
 
 Run:  
-$ xscreensaver-demo  
+**$ xscreensaver-demo**  
 or run it from start menu: Preferences/Screensaver  
 Look up your screensavers and preview. It doesn't work to just run the screensaver program because it then uses an invisible screen.
