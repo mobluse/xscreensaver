@@ -10,8 +10,12 @@ http://www.dis.uniroma1.it/~liberato/screensaver/
 Problems with the tutorial, but I have figured out how to compile and run, see shell scripts:  
 https://stackoverflow.com/questions/11686699/hints-and-tips-for-writing-a-screensaver-using-xscreensaver
 
-Install packages:  
-**$ sudo apt-get install xscreensaver xfonts-100dpi**
+Open Bash and install packages:  
+**$ sudo apt-get install xscreensaver libxpm-dev xfonts-100dpi**  
+I you use WSL you might skip **xfonts-100dpi** because it doesn't help **xfontsel** since the X-server is external.
+
+Clone this repository:
+**$ git clone https://github.com/mobluse/xscreensaver**
 
 Run in the folder whose screensavers you want to use:  
 **$ ./rebuild.sh**  
