@@ -29,7 +29,7 @@ device at the same place.
 How to measure CPU-temperature with a Raspberry Pi from the C programming language:  
 https://www.raspberrypi.org/forums/viewtopic.php?f=33&t=170112
 
-## Screensavers from the Tutorial by Liberato
+## Screensavers from the Tutorial by *liberato*
 The other screensavers does work in WSL except for those using text, since VcXsrv doesn't have all the fonts,
 but one can change font to an existing, manually in the source code.
 (VcXsrv has only two fonts. Check which by running **xfontsel**.
