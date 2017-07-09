@@ -1,4 +1,4 @@
-# XScreensaver for Raspberry Pi & updates to a screensaver tutorial
+# XScreensaver for Raspberry Pi & Updates to a Screensaver Tutorial
 A [screensaver](https://en.wikipedia.org/wiki/Screensaver) for [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi)
 that shows temperature with updates to a tutorial from *liberato*. The tutorial from *liberato* also seems to work in
 [WSL/BashOnWindows](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux), if you install an
@@ -28,8 +28,8 @@ Look up your screensavers and preview. It doesn't work to just run the screensav
 invisible screen.
 
 ## Screensaver Temperature
-It shows the CPU-temperature and it is red when increasing, green when unchanged, and blue when sinking, compared to 
-the previous second.
+This screensaver shows the CPU-temperature and it is red when increasing, green when unchanged, and blue when sinking, compared to 
+the previous second. The temperature shifts position each second.
 
 How to measure CPU-temperature with a Raspberry Pi from the C programming language:  
 https://www.raspberrypi.org/forums/viewtopic.php?f=33&t=170112
