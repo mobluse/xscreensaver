@@ -50,6 +50,7 @@ int main ()
 
 
   /* load a font */
+  // f = XLoadFont(dpy, "-*-fixed-*-r-*-*-13-*-*-*-*-*-iso8859-*"); // Only font that works in VcXsrv 1.19.2.0
   f = XLoadFont(dpy, "-*-helvetica-bold-r-*-*-*-240-*-*-*-*-iso8859-*");
   XSetFont(dpy, g, f);
 
