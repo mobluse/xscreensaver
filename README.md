@@ -25,6 +25,7 @@ invisible screen.
 This screensaver shows the CPU-temperature and it is red when increasing, green when unchanged, and blue when sinking, compared to 
 the previous second. The temperature shifts position each second. This screensaver doesn't work in WSL since it doesn't have the 
 device at the same place. 
+![Temperature Red](https://github.com/mobluse/xscreensaver/blob/master/temperature_red.png?raw=true) ![Temperature Green](https://github.com/mobluse/xscreensaver/blob/master/temperature_green.png?raw=true) ![Temperature Blue](https://github.com/mobluse/xscreensaver/blob/master/temperature_blue.png?raw=true)
 
 How to measure CPU-temperature with a Raspberry Pi from the C programming language:  
 https://www.raspberrypi.org/forums/viewtopic.php?f=33&t=170112
