@@ -6,9 +6,9 @@ that shows temperature with updates to a tutorial from *liberato*. The tutorial 
 
 Open Bash and install packages:  
 **$ sudo apt-get install xscreensaver libxpm-dev xfonts-100dpi**  
-I you use WSL you might skip **xfonts-100dpi** because it doesn't help **xfontsel** since the X-server is external.
+If you use WSL you might skip **xfonts-100dpi** because it doesn't help **xfontsel** since the X-server is external.
 
-Clone this repository:
+Clone this repository:  
 **$ git clone https://github.com/mobluse/xscreensaver**
 
 Run in the folder whose screensavers you want to use:  
@@ -38,7 +38,7 @@ There is a yet unanswered question about how to add fonts to VcXsrv,
 see https://superuser.com/questions/1192339/how-to-add-fonts-to-vcxsrv-x-server.)
 
 ## Tutorial on How to Write Screensavers for Linux:  
-http://www.dis.uniroma1.it/~liberato/screensaver/  
+See http://www.dis.uniroma1.it/~liberato/screensaver/.  
 [XScreensaver](https://www.jwz.org/xscreensaver/) exists for X11 (e.g. Linux), Mac OS X, iOS, Android.
 
 There are some problems with the tutorial, but I have figured out how to compile and run, see shell scripts:  
